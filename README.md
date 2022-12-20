@@ -1,5 +1,5 @@
-"Low-light image enhancement using inverted image normalized by atmospheric light," Signal Processing
-[Jong Ju Jeon](triplej@pusan.ac.kr), [Il Kyu Eom*](ikeom@pusan.ac.kr)(https://sites.google.com/view/ispl-pnu)
+"Low-light image enhancement using inverted image normalized by atmospheric light," Signal Processing   
+[Jong Ju Jeon](github.com/TripleJ2543) (triplej@pusan.ac.kr), [Il Kyu Eom*] (ikeom@pusan.ac.kr)(https://sites.google.com/view/ispl-pnu)   
 
 [Paper](https://doi.org/10.1016/j.sigpro.2022.108523)
 
@@ -25,12 +25,10 @@ python Run_LowLight.py
 ```
 
 ### Citation ###
-Jong Ju Jeon, Il Kyu Eom,
-Low-light image enhancement using inverted image normalized by atmospheric light,
-Signal Processing,
-2022,
-https://doi.org/10.1016/j.sigpro.2022.108523.
-(https://www.sciencedirect.com/science/article/pii/S0165168422000706)
-Keywords: Low-light image enhancement; Inverted image; Atmospheric light; Normalization; Transmission map; Retinex model; Saturation stretch
-
- 
+Jong Ju Jeon, Il Kyu Eom,   
+Low-light image enhancement using inverted image normalized by atmospheric light,   
+Signal Processing,   
+2022,   
+https://doi.org/10.1016/j.sigpro.2022.108523.   
+(https://www.sciencedirect.com/science/article/pii/S0165168422000706)   
+Keywords: Low-light image enhancement; Inverted image; Atmospheric light; Normalization; Transmission map; Retinex model; Saturation stretch   
