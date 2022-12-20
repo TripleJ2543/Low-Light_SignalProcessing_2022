@@ -1,5 +1,5 @@
 "Low-light image enhancement using inverted image normalized by atmospheric light," Signal Processing   
-[Jong Ju Jeon](github.com/TripleJ2543) (triplej@pusan.ac.kr), Il Kyu Eom*(ikeom@pusan.ac.kr)(https://sites.google.com/view/ispl-pnu)   
+[Jong Ju Jeon](github.com/TripleJ2543)(triplej@pusan.ac.kr), Il Kyu Eom*(ikeom@pusan.ac.kr)(https://sites.google.com/view/ispl-pnu)   
 
 [Paper](https://doi.org/10.1016/j.sigpro.2022.108523)
 
